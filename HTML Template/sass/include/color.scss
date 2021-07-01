@@ -1,0 +1,33 @@
+/* Color Template  */
+.color-primary{
+    color: $color-primary;
+}
+
+.color-primary-bg{
+    background: $color-primary;
+}
+
+.color-second{
+    color: $color-second;
+}
+
+.color-second-bg{
+    background: $color-second;
+    
+}
+
+.color-yellow{
+    color: $color-yellow;
+}
+
+.color-yellow-bg{
+    background: $color-yellow;
+}
+
+.bg-custom-1 {
+    background-color: #85144b;
+  }
+  
+  .bg-custom-2 {
+  background-image: linear-gradient(360deg, #13547a 60%, #80d0c7 100%);
+  }
